@@ -1,0 +1,22 @@
+{
+  "name": "git-releases",
+  "version": "1.0.0",
+  "description": "Get all versions or last version of a github repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "releases",
+    "versions",
+    "tags"
+  ],
+  "author": "TARIQ",
+  "license": "MIT",
+  "homepage": "https://itariq.dev",
+  "repository": "http://github.com/1TGDev/git-releases",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
