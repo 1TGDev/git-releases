@@ -1,4 +1,4 @@
-# MySQL
+# Git Releases
 
 <center>
 	<a href="https://nodei.co/npm/git-releases/">
@@ -35,4 +35,4 @@ async function run(){
 
 ## Contributing
 
-© mysql-database, 2021 | <a href="https://itariq.dev" target="_blank">TARIQ</a> <a href="mailto:contact@itariq.dev">(contact@itariq.dev)</a>
+© git-releases, 2021 | <a href="https://itariq.dev" target="_blank">TARIQ</a> <a href="mailto:contact@itariq.dev">(contact@itariq.dev)</a>
