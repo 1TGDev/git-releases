@@ -35,4 +35,4 @@ async function run(){
 
 ## Contributing
 
-© git-releases, 2021 | <a href="https://itariq.dev" target="_blank">TARIQ</a> <a href="mailto:contact@itariq.dev">(contact@itariq.dev)</a>
+© git-releases, 2021 - 2022 | <a href="https://itariq.dev" target="_blank">TARIQ</a> <a href="mailto:contact@itariq.dev">(contact@itariq.dev)</a>
